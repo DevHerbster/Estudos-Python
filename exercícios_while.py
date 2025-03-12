@@ -48,3 +48,4 @@ if contador > 0:
     print('Média das notas:', round(media, 2))
 else:
     print('Nenhuma nota válida foi digitada.')
+# TODO: Update docstring for function documentation (Pull Shark test)
