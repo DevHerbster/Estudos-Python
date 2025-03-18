@@ -1,1 +1,1 @@
- 👨‍💻📒 Estudos-Python: minha jornada de aprendizado do básico ao avançado
+ 👨‍💻📚 Estudos-Python: minha jornada de aprendizado do básico ao avançado
